@@ -1,0 +1,25 @@
+{
+  "name": "spatial-captcha",
+  "version": "1.0.0",
+  "description": "A 3D spatial CAPTCHA system for human verification",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "captcha",
+    "3d",
+    "spatial",
+    "threejs",
+    "verification",
+    "security"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/spatial-captcha.git"
+  }
+}
+
