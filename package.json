@@ -1,10 +1,11 @@
 {
-  "name": "spatial-captcha",
-  "version": "1.0.0",
-  "description": "A 3D spatial CAPTCHA system for human verification",
+  "name": "spatial-captcha-saas",
+  "version": "2.0.0",
+  "description": "3D Spatial CAPTCHA SaaS - Authentication service with embeddable widget",
   "main": "index.html",
   "scripts": {
     "dev": "npx serve",
+    "build": "echo 'Static site - no build needed'",
     "deploy": "vercel"
   },
   "keywords": [
@@ -13,13 +14,16 @@
     "spatial",
     "threejs",
     "verification",
-    "security"
+    "security",
+    "saas",
+    "authentication",
+    "api"
   ],
-  "author": "Your Name",
+  "author": "Spatial CAPTCHA Team",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/spatial-captcha.git"
+    "url": "https://github.com/yourusername/spatial-captcha-saas.git"
   }
 }
 
